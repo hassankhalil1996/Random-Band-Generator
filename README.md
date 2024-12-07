@@ -26,7 +26,8 @@ To get started with this project, you'll need to install some dependencies and s
   # run app :
   node index.js 
 
-  
+  # After the app is running, open your browser and visit:
+  http://localhost:3000/ 
+    
   ```
-# After the app is running, open your browser and visit:
-http://localhost:3000/ 
+
