@@ -13,7 +13,7 @@ To get started with this project, you'll need to install some dependencies and s
 First, clone this repository to your local machine:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/hassankhalil1996/Random-Band-Generator.git
 
 ```bash
 cd <project-folder>
