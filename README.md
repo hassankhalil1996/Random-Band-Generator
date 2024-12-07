@@ -10,13 +10,22 @@ Welcome to the Band Name Generator! This simple web app allows you to create ran
 
 To get started with this project, you'll need to install some dependencies and start the server.
 
-First, clone this repository to your local machine:
+
 
 ```bash
+  # First, clone this repository to your local machine: :
   git clone https://github.com/hassankhalil1996/Random-Band-Generator.git
 
+  make sure u inside the cloned folder :
   cd <project-folder>
 
+  # install dependencies
   npm install
+
+  # run app :
+  node index.js 
+
+  
   ```
-# After the server is running, open your browser and visit: http://localhost:3000/ 
+# After the app is running, open your browser and visit:
+http://localhost:3000/ 
