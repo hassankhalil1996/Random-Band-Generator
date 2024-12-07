@@ -1,5 +1,5 @@
 # Band Name Generator
-Welcome to the Band Name Generator! This simple web app allows you to create random band names with just a click of a button. Perfect for musicians, bands, or anyone looking for a creative and fun name.
+Welcome to the Band Name Generator! This simple web app allows you to create random band names with just a click of a button. its for anyone looking for a creative and fun name.
 
 https://github.com/user-attachments/assets/e79e2738-4103-4198-9caf-386541eca3b5 
 
