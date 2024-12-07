@@ -18,5 +18,5 @@ First, clone this repository to your local machine:
   cd <project-folder>
 
   npm install
-
+  ```
 # After the server is running, open your browser and visit: http://localhost:3000/ 
